@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+    background-color:aliceblue;
+    padding-top:20px;
+}
+img{
+    margin:10px;
+}
+h1{
+    text-decoration:underline;
+}
+p{
+    color:aliceblue; 
+}
